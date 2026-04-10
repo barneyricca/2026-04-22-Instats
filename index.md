@@ -59,6 +59,12 @@ It looks like you are setting up a website for a Software Carpentry curriculum b
 {% endunless %}
 {% endif %}
 
+<p class="text-center">
+  <a href="https://instats.org/seminar/plotting-and-programming-in-python">
+    <button type="button" class="btn btn-primary">Register through Instats</button>
+  </a>
+</p>
+
 <h2 id="general">General Information</h2>
 
 {% comment %}
